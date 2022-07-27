@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AK4JAY
-- 👀 I’m interested in ... Back-end
-- 🌱 I’m currently learning ... Arch Linux
-- 💞️ I’m looking to collaborate on ... Java
+- 👀 I’m interested in ... 
+- 🌱 I’m currently learning ... 
+- 💞️ I’m looking to collaborate on ... 
 - 📫 How to reach me ... Isaacrocharedes@gmail.com
 
 <!---
